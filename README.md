@@ -1,4 +1,4 @@
-# Analista e Desenvolvedor de Sistemas
+# Analista e Desenvolvedor de Sistemas Web e Mobile
 
 
 Formado em Análise e Desenvolvimento de Sistemas pela Faculdade Anhanguera UNIDERP, tenho especialização em desenvolvimento de aplicações mobile,
