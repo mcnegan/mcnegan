@@ -35,9 +35,9 @@
 </div>
 <br>
 <div align="center"> 
-  <a href="mcpantoja@outlook.com" target="_blank"><img src="https://img.shields.io/badge/oft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="mcpantoj@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0078D4?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mauricio-pantoja/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://g.dev/mcnegan"><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
+  <a href="https://g.dev/mauriciopantoja"><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
   <br>
   <br>
   <a href="https://github.com/mcnegan/mcnegan.git"><img alt="TauzActivity Graph" src="https://activity-graph.herokuapp.com/graph?username=mcnegan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
